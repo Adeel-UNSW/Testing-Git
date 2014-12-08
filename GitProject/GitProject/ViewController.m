@@ -14,7 +14,7 @@
 
 @implementation ViewController
 -(void)test{
-    
+    NSLog(@"hello");
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
